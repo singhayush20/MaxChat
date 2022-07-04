@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346231680034",
+    "firebase_url": "https://maxchat-8bd9a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "maxchat-8bd9a",
+    "storage_bucket": "maxchat-8bd9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346231680034:android:056ad635f8c32287162e7b",
+        "android_client_info": {
+          "package_name": "com.example.maxchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346231680034-hic1be0efob7d4ljo4470m7uhh84igcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maxchat",
+            "certificate_hash": "5bbbdd434ea44165e9526c0b25a4431a58240e89"
+          }
+        },
+        {
+          "client_id": "346231680034-9i8kjjrgk4rt24c97tnlbstakb3tiava.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBPbTOxhYFxWxdo8K6-GFeOoPnS8D380"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346231680034-9i8kjjrgk4rt24c97tnlbstakb3tiava.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
